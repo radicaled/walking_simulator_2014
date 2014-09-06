@@ -1,0 +1,4 @@
+name: walking_sim
+dependencies:
+  browser: any
+  stagexl: any
